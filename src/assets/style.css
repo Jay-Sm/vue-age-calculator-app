@@ -28,6 +28,6 @@
   }
 
   .dateInput{
-    @apply w-32 border p-3 rounded-md
+    @apply w-28 border pl-5 py-2 rounded-md font-poppins text-2xl placeholder:text-appSmokeyGrey
   }
 }

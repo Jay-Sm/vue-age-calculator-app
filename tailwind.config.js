@@ -11,15 +11,12 @@ module.exports = {
         appSmokeyGrey: 'hsl(0, 1%, 44%)',
         appOffBlack: 'hsl(0, 0%, 8%)'
       },
-      borderRadius: {
-        Spxl: '170px'
-      },
       fontFamily: {
         poppins: 'Poppins'
       },
       letterSpacing: {
         appSpacing: ".15em"
-      }
+      },
     }
   },
   plugins: []
