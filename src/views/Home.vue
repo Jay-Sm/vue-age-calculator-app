@@ -21,9 +21,9 @@
       </form>
     </div>
     <div>
-      <h1><span>--</span> years</h1>
-      <h1><span>--</span> months</h1>
-      <h1><span>--</span> days</h1>
+      <h1 class="dateTitle"><span class="text-appPurple">--</span> years</h1>
+      <h1 class="dateTitle"><span class="text-appPurple">--</span> months</h1>
+      <h1 class="dateTitle"><span class="text-appPurple">--</span> days</h1>
     </div>
 
   </div>
