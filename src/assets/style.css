@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  :root{
+    @apply font-poppins font-semibold tracking-appSpacing
+  }
+
+  html{
+    @apply h-full
+  }
+
+  body{
+    @apply h-full m-0
+  }
+
+  #app {
+    @apply h-full bg-gray-600 flex justify-center items-center
+  }
+
+  .dateContainer{
+    @apply flex flex-col mr-6
+  }
+
+  .dateLabel{
+    @apply w-32 text-appSmokeyGrey text-xs mb-1
+  }
+
+  .dateInput{
+    @apply w-32 border p-3 rounded-md
+  }
+}
