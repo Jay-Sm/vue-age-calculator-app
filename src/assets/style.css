@@ -28,10 +28,10 @@
   }
 
   .dateInput{
-    @apply w-28 border pl-5 py-2 rounded-md font-poppins text-2xl placeholder:text-appSmokeyGrey
+    @apply w-28 border pl-5 py-2 rounded-md font-poppins text-2xl placeholder:text-appSmokeyGrey focus:border-gray-600 outline-none
   }
 
   .dateTitle {
-    @apply italic text-7xl mt-6
+    @apply italic text-7xl mt-6 select-none
   }
 }
